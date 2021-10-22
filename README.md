@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @agungfazrulhaq
+- 👀 I’m interested in AI/Machine Learning
+- 🌱 I’m currently learning R
