@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @agungfazrulhaq
-- 👀 I’m interested in AI/Machine Learning
+- It's nothing much but it's honest work
